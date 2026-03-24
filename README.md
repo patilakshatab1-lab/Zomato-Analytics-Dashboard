@@ -5,7 +5,7 @@ This project presents an interactive Zomato Restaurant Insights Dashboard built 
 It analyzes restaurant data to uncover trends in ratings, cuisines, locations, and service features like online delivery and table booking.
 
 ## 📷 Dashboard Preview
-![Dashboard](Zomato Dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 🎯 Objectives
 - Analyze restaurant distribution across cities and countries  
