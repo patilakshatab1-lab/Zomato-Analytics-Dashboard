@@ -51,4 +51,4 @@ It analyzes restaurant data to uncover trends in ratings, cuisines, locations, a
 
 ## 🔗 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/akshata-patil-114260371)
-- 💻 [GitHub](https://github.com/patilakshatab1)
+- 💻 [[GitHub](https://github.com/patilakshatab1-lab/Zomato-Analytics-Dashboard))
