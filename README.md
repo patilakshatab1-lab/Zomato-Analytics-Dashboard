@@ -37,8 +37,6 @@ It analyzes restaurant data to uncover trends in ratings, cuisines, locations, a
 - Table Booking Analysis  
 - Restaurants Opening Trend by Year  
 
-## 📷 Dashboard Preview
-![Dashboard](Zomato Dashboard.png)
 
 ## 🚀 How to Use
 1. Clone the repository  
