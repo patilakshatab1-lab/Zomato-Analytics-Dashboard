@@ -4,6 +4,9 @@
 This project presents an interactive Zomato Restaurant Insights Dashboard built using SQL and Power BI.  
 It analyzes restaurant data to uncover trends in ratings, cuisines, locations, and service features like online delivery and table booking.
 
+## 📷 Dashboard Preview
+![Dashboard](Zomato Dashboard.png)
+
 ## 🎯 Objectives
 - Analyze restaurant distribution across cities and countries  
 - Identify top cuisines and customer preferences  
